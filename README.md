@@ -1,3 +1,3 @@
 # hello-word
 APR
-Coding!
+Coding and learning!
